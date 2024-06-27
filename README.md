@@ -1,6 +1,7 @@
-# LaTeX Template
 
 ![Logo](.github/latex-logo.svg)
+
+# LaTeX Template
 
 LaTeX Document Template for VS Code with the LaTeX Workshop Extension, featuring automated document compilation and release via GitHub Actions and git tags.
 
